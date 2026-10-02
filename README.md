@@ -39,20 +39,30 @@ Atualmente estou aprofundando meus conhecimentos em **React, TypeScript, JavaScr
 ### Front-end
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind" />
 </a>
 
-### Back-end & Programação
+### Back-end
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=python,java" />
+<img src="https://skillicons.dev/icons?i=python,java,spring" />
 </a>
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 
 ### Ferramentas
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,figma,canva" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
 
@@ -84,17 +94,15 @@ Projeto voltado para sustentabilidade e impacto social, desenvolvido no contexto
 
 <td width="50%" valign="top">
 
-<h3 align="center">🚇 FluxFlow</h3>
+<h3 align="center">🎮 Connect 4</h3>
 
 <div align="center">
 
-Aplicação conceitual para acompanhamento do fluxo e condições das linhas do metrô de São Paulo.
+Jogo de Connect 4 desenvolvido em Python para terminal, com lógica de tabuleiro, validação de jogadas e identificação de vitória.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </div>
 
@@ -218,40 +226,3 @@ Durante a formação, tive contato com:
 │   🌐  Desenvolvimento Web                │
 │                                          │
 └──────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🌐 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/felipelima2005">
-<img src="https://img.shields.io/badge/GitHub-felipelima2005-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/felipe-lima-a4215832a/">
-<img src="https://img.shields.io/badge/LinkedIn-Felipe%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=felipelima2005&style=flat-square&color=58A6FF&label=Profile+Views" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Desenvolvendo. Aprendendo. Evoluindo.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" />
-
-</div>
